@@ -1,0 +1,108 @@
+body,div{
+	padding: 0px;
+	width: 20%;
+	height: auto;
+	margin-top: 5px;
+	margin-right: 5%;
+	margin-bottom: 5px;
+	margin-left: 5%;
+	font-size: 24px;
+	text-decoration: none;
+}
+#clearBoth{
+clear:both;}
+#containerDiv{
+	width: 1500px;
+	height: auto;
+	padding: 0px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-left: 50px;
+}
+
+#h1{
+	height: 50px;
+	width: 90%;
+	margin-top: 10px;
+	margin-right: 5%;
+	margin-bottom: 10px;
+	margin-left: 5%;
+}
+#h11{
+	float: left;
+	margin-left: 5%;
+	font-size: 18px;
+	height: 30px;
+}
+#h12{
+	float: right;
+	margin-right: 5%;
+	font-size: 18px;
+	height: 30px;
+}
+#h2{
+	background-color: #FF3333;
+	font-family: "新宋体";
+	font-size: 36px;
+	font-style: normal;
+	line-height: 25px;
+	font-weight: bold;
+	text-decoration: none;
+	text-align: center;
+	vertical-align: baseline;
+	height: auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	width: 90%;
+	margin-top: 10px;
+	margin-right: 5%;
+	margin-bottom: 10px;
+	margin-left: 5%;
+}
+
+#h3{
+	height: 720px;
+	width: 90%;
+	padding: 0px;
+	margin-top: 20px;
+	margin-right: 5%;
+	margin-bottom: 20px;
+	margin-left: 5%;
+}
+#h31{
+	float: left;
+	padding: 2px;
+	height: auto;
+	width: 17.5%;
+	border-bottom: 1px #CCCCCC solid;
+	padding: 0px;
+	line-height: 28px;
+	font-size: 24px;
+	list-style-image: url('images/gray_dot.gif');
+	list-style-position: inside;
+	margin-top: 5px;
+	margin-right: 1%;
+	margin-bottom: 5px;
+	margin-left: 1.5%;
+}
+#h32{
+	float: left;
+	width: 77.5%;
+	height: auto;
+	padding: 0px;
+	margin-top: 5px;
+	margin-right: 1.5%;
+	margin-bottom: 5px;
+	margin-left: 1%;
+}
+#h4{
+	padding: 0px;
+	width: 90%;
+	height: 200px;
+	margin-top: 5px;
+	margin-right: 5%;
+	margin-bottom: 5px;
+	margin-left: 5%;
+}
+
